@@ -1,4 +1,4 @@
-# EWBF-0.3.4b
+# EWBF-0.3.4b (Zcash, Horizen)
 EWBF's CUDA Equihash Miner for NVIDIA GPU
 
 ## Quick Start Guide
