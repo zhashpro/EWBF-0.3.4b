@@ -5,7 +5,7 @@ EWBF's CUDA Equihash Miner for NVIDIA GPU
 
 Download the miner using the link below.
 
-Windows / Linux: EWBF Miner
+[Download EWBF 0.3.4b Windows Version](https://github.com/zhashpro/EWBF-0.3.4b/raw/main/EWBF-0.3.4b.rar)
 
 Edit _ZHash-Start.bat_ file with your favorite text editor.
 
