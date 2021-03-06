@@ -9,7 +9,7 @@ Download the miner using the link below.
 
 [Download EWBF 0.3.4b Windows Version](https://github.com/zhashpro/EWBF-0.3.4b/raw/main/EWBF-0.3.4b.rar)
 
-Edit _ZHash-Start.bat_ file with your favorite text editor.
+Extract the archive and edit _ZHash-Start.bat_ file with your favorite text editor.
 
 1. Set the --server _URL_ and --port _number_
 2. Change _yourWallet_ to your wallet address
