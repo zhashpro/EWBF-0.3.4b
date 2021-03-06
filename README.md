@@ -11,11 +11,11 @@ Download the miner using the link below.
 
 Edit _ZHash-Start.bat_ file with your favorite text editor.
 
-1. Set the --server URL and --port number
-2. Change yourWallet to your wallet address
+1. Set the --server _URL_ and --port _number_
+2. Change _yourWallet_ to your wallet address
 3. Save and exit
 
-**Example**: _miner.exe --server eu1.zhash.pro --port 6057 --user yourWallet.workerName --pass x --pec_
+**Example**: miner.exe --server _eu1.zhash.pro_ --port _6057_ --user _yourWallet_.workerName --pass x --pec
 
 Run EWBF Miner by double clicking _ZHash-Start.bat_
 
