@@ -15,7 +15,9 @@ Edit _ZHash-Start.bat_ file with your favorite text editor.
 2. Change _yourWallet_ to your wallet address
 3. Save and exit
 
-**Example**: miner.exe --server _eu1.zhash.pro_ --port _6057_ --user _yourWallet_.workerName --pass x --pec
+**Example for Zcash**: miner.exe --server _eu1.zhash.pro_ --port _6058_ --user _yourWallet_.workerName --pass x --pec
+
+**Example for Horizen**: miner.exe --server _eu1.zhash.pro_ --port _3058_ --user _yourWallet_.workerName --pass x --pec
 
 Run EWBF Miner by double clicking _ZHash-Start.bat_
 
